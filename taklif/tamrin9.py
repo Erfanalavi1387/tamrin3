@@ -1,0 +1,7 @@
+a=float(input("hoghogh ra vared kon=>"))
+b=(a*7//100)
+print("darsad bime=>",b) 
+c=(a*9//100)
+print("darsad maliat=>",c)
+d=a-(b+c)
+print("mablagh dariafti=>",d)
